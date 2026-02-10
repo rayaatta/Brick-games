@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Code repo :  [Add live site URL here](https://your-live-site-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Code repo :  [Repository](https://github.com/rayaatta/Brick-games)
+- Live Site URL: [Brick game](https://rayaatta.github.io/Brick-games/)
 
 ## My process
 
@@ -91,4 +91,4 @@ I'm definitely going to be using this design technique more often.
 ## Author
 
 - Frontend Mentor - [@rayaatta](https://www.frontendmentor.io/profile/rayaatta)
-- My portfolio - [Rayaatta](https://rayaatta.github.io/My-portfolio/))
+- My portfolio - [Rayaatta](https://rayaatta.github.io/My-portfolio/)
