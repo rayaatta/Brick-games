@@ -1,6 +1,6 @@
 # Landing page - Revive BrickGames
 
-This is a hybrid of a landing page and a passionate proposal to revive brickgames, a nostalgic game machine that was part of my childhood. I made this in order to improve and showcase my coding skills by building realistic projects. 
+This is a hybrid of a landing page and a passionate proposal to revive brickgames, a nostalgic game machine that was part of my childhood. I made this in order to improve and showcase my coding skills by building projects. 
 
 ## Table of contents
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I got a chance to use some cool CSS to create a background like a that looks like a net to bring out the brickgame feel and I am definitely going to use it again.
+I got a chance to use some cool CSS to create a backgroundthat looks like a net to bring out the brickgame feel and I am definitely going to use it again.
 here's the code
 
 ```css
@@ -52,7 +52,7 @@ here's the code
     linear-gradient(90deg, #ffffff20 1px, transparent 1px);
   background-size: 30px 40px;
 ```
-I also learnt managed to create this branching time line which was a lot of hardwork,counting pixels but it worked out in the end.
+I also learnt managed to create this branching time line(like a tree that branches as you go down to different sections) which was a lot of hardwork,counting pixels but it worked out in the end.
 
 To create the main tree
 ```css
@@ -91,4 +91,4 @@ I'm definitely going to be using this design technique more often.
 ## Author
 
 - Frontend Mentor - [@rayaatta](https://www.frontendmentor.io/profile/rayaatta)
-- My portfolio - [Rayaatta](https://www.github.io/rayaatta/my-profile.html)
+- My portfolio - [Rayaatta](https://rayaatta.github.io/My-portfolio/))
