@@ -14,7 +14,7 @@ This is a hybrid of a landing page and a passionate proposal to revive brickgame
 
 ## Overview
 
-### The challenge
+### What i had to build
 
 Users should be able to:
 
@@ -38,6 +38,8 @@ Users should be able to:
 - Mobile-first workflow
 - CSS BEM methodology
 - Javascript
+### Screenshot
+![Screenshot of the BrickGames landing page showing a responsive design with a grid-patterned background, navigation menu, hero section featuring the classic brick game aesthetic, and a timeline displaying the evolution of brick games with branching connections and circular nodes. The page demonstrates mobile-first responsive layout with warm brown tones and nostalgic retro styling.](screenshot.png)
 
 ### What I learned
 
